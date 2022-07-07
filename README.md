@@ -3,7 +3,6 @@
 HTML <br />
 CSS <br />
 Javascript<br />
-EJS<br />
 Database- MongoDB<br />
 
 # Features
